@@ -1,0 +1,17 @@
+{
+  "banana": {
+    "name": "banana",
+    "quantity": 18,
+    "price": 0.0
+  },
+  "apple": {
+    "name": "apple",
+    "quantity": 10,
+    "price": 0.0
+  },
+  "orange": {
+    "name": "orange",
+    "quantity": 35,
+    "price": 0.0
+  }
+}
